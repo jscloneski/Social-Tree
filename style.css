@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    font-size: 16px;
+    line-height: auto;
+}
+
+ #page #profile {
+    border-radius: 50;
+    margin-top: 207;
+    
+ }
+
