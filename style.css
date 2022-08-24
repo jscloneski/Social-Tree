@@ -30,7 +30,9 @@ a:hover {
 }
 
 ul li {
-
+    width: 326;
+    height: 49;
+    padding: 12 140;
     list-style: none;
     font-weight: 600;
     font-size: 16px;
