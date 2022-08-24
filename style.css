@@ -25,7 +25,7 @@ a {
     opacity: 0.5;
 }
 
-a: :hover {
+a:hover {
     opacity: 1.0;
 }
 
